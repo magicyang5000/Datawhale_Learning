@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4555b61-1bdd-4f6d-b799-0ae3ba815f7c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/基础知识/Python/学习任务/Task6.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/基础知识/Python/学习任务/python_plane.zip" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础知识/Python/学习任务/Task5.md" beforeDir="false" afterPath="$PROJECT_DIR$/基础知识/Python/学习任务/Task5.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,8 +23,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="692">
-                <caret line="221" column="8" lean-forward="true" selection-start-line="221" selection-start-column="8" selection-end-line="221" selection-end-column="8" />
+              <first_editor relative-caret-position="492">
+                <caret line="60" column="6" lean-forward="true" selection-start-line="60" selection-start-column="6" selection-end-line="60" selection-end-column="6" />
               </first_editor>
               <second_editor />
             </state>
@@ -28,11 +32,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/深度学习/Keras/学习任务/Task1.md">
+        <entry file="file://$PROJECT_DIR$/理论应用/图像处理基础/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="350">
-                <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="18" />
+              <first_editor relative-caret-position="425">
+                <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
               </first_editor>
               <second_editor />
             </state>
@@ -40,11 +44,45 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/深度学习/Keras/学习任务/Task2.md">
+        <entry file="file://$PROJECT_DIR$/基础知识/Python/学习任务/Task2.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/基础知识/Python/学习任务/Task4.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="500">
+                <caret line="20" selection-start-line="20" selection-end-line="20" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/基础知识/Python/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="460">
+                <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/基础知识/Python/学习任务/Task5.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="25">
-                <caret line="1" column="18" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="18" />
+                <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
               </first_editor>
               <second_editor />
             </state>
@@ -52,11 +90,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/深度学习/Keras/学习任务/Task3.md">
+        <entry file="file://$PROJECT_DIR$/基础知识/Python/学习任务/Task6.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="25">
-                <caret line="1" column="14" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="14" />
+                <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
               </first_editor>
               <second_editor />
             </state>
@@ -64,11 +102,18 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/深度学习/Keras/学习任务/Task4.md">
+        <entry file="file://$PROJECT_DIR$/更新.patch">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2025" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/机器学习/数据竞赛(房租预测)/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="25">
-                <caret line="1" column="19" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="19" />
+              <first_editor relative-caret-position="300">
+                <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
               </first_editor>
               <second_editor />
             </state>
@@ -76,60 +121,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/深度学习/深度学习(理论)/学习任务/Task8.md">
+        <entry file="file://$PROJECT_DIR$/基础知识/Python/学习任务/Task3.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="50">
-                <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="14" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/深度学习/深度学习(理论)/学习任务/Task7.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="50">
-                <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="9" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/深度学习/深度学习(理论)/学习任务/Task5.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="50">
-                <caret line="2" column="29" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="29" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/深度学习/深度学习(理论)/学习任务/Task6.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="50">
-                <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="14" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/深度学习/深度学习(理论)/学习任务/Task4.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="50">
-                <caret line="2" column="5" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="5" />
-              </first_editor>
+              <first_editor />
               <second_editor />
             </state>
           </provider>
@@ -172,7 +167,6 @@
         <option value="$PROJECT_DIR$/理论应用/图像处理基础/Image_Processing/学习任务/Task1.md" />
         <option value="$PROJECT_DIR$/编程基础/leetCode/README.md" />
         <option value="$PROJECT_DIR$/机器学习/数据竞赛(房租预测)/学习任务/Task5.md" />
-        <option value="$PROJECT_DIR$/机器学习/数据竞赛(房租预测)/README.md" />
         <option value="$PROJECT_DIR$/机器学习/数据竞赛(房租预测)/学习任务/Task6.md" />
         <option value="$PROJECT_DIR$/理论应用/数据挖掘/README.md" />
         <option value="$PROJECT_DIR$/机器学习/数据竞赛(房租预测)/学习任务/Task3.md" />
@@ -181,7 +175,6 @@
         <option value="$PROJECT_DIR$/机器学习/数据竞赛(房租预测)/课程说明.md" />
         <option value="$PROJECT_DIR$/机器学习/BigData_Learning/README.md" />
         <option value="$PROJECT_DIR$/理论应用/图像处理基础/学习任务/Task3.md" />
-        <option value="$PROJECT_DIR$/理论应用/图像处理基础/README.md" />
         <option value="$PROJECT_DIR$/深度学习/深度学习(理论)/学习任务/Task8.md" />
         <option value="$PROJECT_DIR$/深度学习/深度学习(理论)/学习任务/Task1.md" />
         <option value="$PROJECT_DIR$/深度学习/深度学习(理论)/学习任务/Task2.md" />
@@ -191,6 +184,11 @@
         <option value="$PROJECT_DIR$/深度学习/深度学习(理论)/学习任务/Task7.md" />
         <option value="$PROJECT_DIR$/深度学习/深度学习(理论)/学习任务/Task6.md" />
         <option value="$PROJECT_DIR$/深度学习/深度学习(理论)/深度学习课程设计.md" />
+        <option value="$PROJECT_DIR$/理论应用/图像处理基础/README.md" />
+        <option value="$PROJECT_DIR$/基础知识/Python/学习任务/Task4.md" />
+        <option value="$PROJECT_DIR$/机器学习/数据竞赛(房租预测)/README.md" />
+        <option value="$PROJECT_DIR$/基础知识/Python/学习任务/Task5.md" />
+        <option value="$PROJECT_DIR$/基础知识/Python/学习任务/Task6.md" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -225,6 +223,19 @@
             <path>
               <item name="Datawhale_Learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="Datawhale_Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="基础知识" type="462c0819:PsiDirectoryNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Datawhale_Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Datawhale_Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="基础知识" type="462c0819:PsiDirectoryNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
+              <item name="学习任务" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Datawhale_Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Datawhale_Learning" type="462c0819:PsiDirectoryNode" />
               <item name="数据科学" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -244,6 +255,12 @@
               <item name="机器学习" type="462c0819:PsiDirectoryNode" />
               <item name="大数据基础" type="462c0819:PsiDirectoryNode" />
               <item name="学习任务" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Datawhale_Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Datawhale_Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="机器学习" type="462c0819:PsiDirectoryNode" />
+              <item name="数据竞赛(房租预测)" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Datawhale_Learning" type="b2602c69:ProjectViewProjectNode" />
@@ -304,24 +321,24 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/深度学习/深度学习(理论)/学习任务" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/基础知识/Python/学习任务" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="J:\HeitaoGit\Datawhale_Learning\基础知识\Python\学习任务" />
       <recent name="J:\HeitaoGit\Datawhale_Learning\深度学习\深度学习(理论)\学习任务" />
       <recent name="J:\HeitaoGit\Datawhale_Learning\机器学习\数据竞赛(房租预测)" />
       <recent name="J:\HeitaoGit\Datawhale_Learning\机器学习\数据竞赛(房租预测)\数据集\评分文件" />
       <recent name="J:\HeitaoGit\Datawhale_Learning\机器学习\数据竞赛(房租预测)\数据集" />
-      <recent name="J:\HeitaoGit\Datawhale_Learning\机器学习\数据竞赛(房租预测)\学习任务" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="J:\HeitaoGit\Datawhale_Learning\基础知识\Python\学习任务" />
       <recent name="J:\HeitaoGit\Datawhale_Learning\理论应用\图像处理基础" />
       <recent name="J:\HeitaoGit\Datawhale_Learning\机器学习" />
       <recent name="J:\HeitaoGit\Datawhale_Learning\理论应用" />
       <recent name="J:\HeitaoGit\Datawhale_Learning\深度学习" />
-      <recent name="J:\HeitaoGit\Datawhale_Learning\数据科学" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -348,7 +365,7 @@
       <updated>1563237105897</updated>
       <workItem from="1563237107106" duration="1834000" />
       <workItem from="1563242003035" duration="15633000" />
-      <workItem from="1563402888185" duration="11985000" />
+      <workItem from="1563402888185" duration="14855000" />
     </task>
     <task id="LOCAL-00001" summary="111">
       <created>1563242343758</created>
@@ -504,11 +521,39 @@
       <option name="project" value="LOCAL" />
       <updated>1563419778377</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="更新">
+      <created>1563419871990</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1563419871990</updated>
+    </task>
+    <task id="LOCAL-00024" summary="更新">
+      <created>1563419911638</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1563419911638</updated>
+    </task>
+    <task id="LOCAL-00025" summary="更新">
+      <created>1563430959521</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1563430959521</updated>
+    </task>
+    <task id="LOCAL-00026" summary="更新">
+      <created>1563433808092</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1563433808092</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29452000" />
+    <option name="totallyTimeSpent" value="32322000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="2062" height="1126" extended-state="6" />
@@ -583,36 +628,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="更新" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/机器学习/数据竞赛(房租预测)/Task1.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/机器学习/数据竞赛(房租预测)/数据集/数据集字段说明.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/机器学习/数据竞赛(房租预测)/数据集/train_data.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/机器学习/数据竞赛(房租预测)/数据集/test_b.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/机器学习/数据竞赛(房租预测)/数据集/test_a.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/机器学习/数据竞赛(房租预测)/数据集/评分文件/sub_a_913.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/机器学习/数据竞赛(房租预测)/数据集/评分文件/sub_b_919.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/理论应用/自然语言处理(理论+实践)/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -686,16 +701,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="25">
             <caret line="1" column="7" lean-forward="true" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="73" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/机器学习/数据竞赛(房租预测)/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="3" selection-start-column="3" selection-end-column="3" />
           </first_editor>
           <second_editor />
         </state>
@@ -885,16 +890,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/理论应用/图像处理基础/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="50">
-            <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/深度学习/深度学习(理论)/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1035,11 +1030,92 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/理论应用/图像处理基础/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="425">
+            <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/基础知识/Python/学习任务/Task2.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/基础知识/Python/学习任务/Task3.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/机器学习/数据竞赛(房租预测)/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="300">
+            <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/基础知识/Python/学习任务/Task4.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="500">
+            <caret line="20" selection-start-line="20" selection-end-line="20" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/基础知识/Python/学习任务/Task5.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="25">
+            <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/基础知识/Python/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="460">
+            <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/基础知识/Python/学习任务/Task6.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="25">
+            <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/更新.patch">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2025" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="692">
-            <caret line="221" column="8" lean-forward="true" selection-start-line="221" selection-start-column="8" selection-end-line="221" selection-end-column="8" />
+          <first_editor relative-caret-position="492">
+            <caret line="60" column="6" lean-forward="true" selection-start-line="60" selection-start-column="6" selection-end-line="60" selection-end-column="6" />
           </first_editor>
           <second_editor />
         </state>
