@@ -1,7 +1,8 @@
-# 认识数据([赛题说明](https://2019ai.futurelab.tv/contest_detail/3#contest_des))
-# 了解比赛的背景
+# 赛题分析
+## 认识数据([赛题说明](https://2019ai.futurelab.tv/contest_detail/3#contest_des))
+## 了解比赛的背景
 分类问题还是回归问题，以及评分函数
-# 对比赛数据做EDA
+## 对比赛数据做EDA
 1. 数据分析
   1. 缺失值分析
 2. 特征值分析
