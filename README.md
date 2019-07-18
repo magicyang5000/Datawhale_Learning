@@ -52,7 +52,7 @@ Datawhale_Learning涵盖了AI领域从理论知识到动手实践的学习内容
 - Task1：[环境搭建+python初体验+python基础讲解+ python数值基本知识(2天)](./基础知识/Python/学习任务/Task1.md)
 - Task2：[列表+元组+string字符串+字符串格式化问题(2天)](./基础知识/Python/学习任务/Task2.md)
 - Task3：[数组+集合+判断语句+三目表达式+循环语句(2天)](./基础知识/Python/学习任务/Task3.md)
-- Task4：[数组+集合+判断语句+三目表达式+循环语句(2天)](./基础知识/Python/学习任务/Task4.md)
+- Task4：[函数关键字+定义+参数与作用域+返回值+file+os模块(2天)](./基础知识/Python/学习任务/Task4.md)
 - Task5：[函数+file+os模块+ datetime模块(2天)](./基础知识/Python/学习任务/Task5.md)
 - Task6：[飞机大战(3天)](./基础知识/Python/学习任务/Task6.md)
 
