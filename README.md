@@ -6,17 +6,17 @@ Datawhale_Learning涵盖了AI领域从理论知识到动手实践的学习内容
 # 编程基础
 ## 课程列表
 ### 【编程】
-**[课程简介](./编程基础/Programming/README.md)**
+**[课程简介](编程基础/编程/README.md)**
 
 
 **任务安排**
-- Task1：[数组+链表(2天)](./编程基础/Programming/学习任务/Task1.md)
-- Task2：[栈+队列+递归(3天)](./编程基础/Programming/学习任务/Task2.md)
-- Task3：[排序+二分查找(2天)](./编程基础/Programming/学习任务/Task3.md)
-- Task4：[散列表（哈希表）+字符串(2天)](./编程基础/Programming/学习任务/Task4.md)
-- Task5：[二叉树+堆(2天)](./编程基础/Programming/学习任务/Task5.md)
-- Task6：[图(2天)](./编程基础/Programming/学习任务/Task6.md)
-- Task7：[递归+回溯+分治+动态规划(2天)](./编程基础/Programming/学习任务/Task7.md)
+- Task1：[数组+链表(2天)](编程基础/编程/学习任务/Task1.md)
+- Task2：[栈+队列+递归(3天)](编程基础/编程/学习任务/Task2.md)
+- Task3：[排序+二分查找(2天)](编程基础/编程/学习任务/Task3.md)
+- Task4：[散列表（哈希表）+字符串(2天)](编程基础/编程/学习任务/Task4.md)
+- Task5：[二叉树+堆(2天)](编程基础/编程/学习任务/Task5.md)
+- Task6：[图(2天)](编程基础/编程/学习任务/Task6.md)
+- Task7：[递归+回溯+分治+动态规划(2天)](编程基础/编程/学习任务/Task7.md)
 
 
 
@@ -34,14 +34,14 @@ Datawhale_Learning涵盖了AI领域从理论知识到动手实践的学习内容
 ## 课程列表
 ### 【统计学】
 
-**[课程简介](./基础知识/Statistical/README.md)**
+**[课程简介](基础知识/统计学/README.md)**
 
 **任务安排**
 
-- Task1：[统计学基本知识+二项及泊松分布+大数定律+正态分布(2天)](./基础知识/Statistical/学习任务/Task1.md)
-- Task2：[中心极限定理+置信区间(1天)](./基础知识/Statistical/学习任务/Task2.md)
-- Task3：[假设检验(2天)](./基础知识/Statistical/学习任务/Task3.md)
-- Task4：[线性回归+卡方分布+方差分析(2天)](./基础知识/Statistical/学习任务/Task4.md)
+- Task1：[统计学基本知识+二项及泊松分布+大数定律+正态分布(2天)](基础知识/统计学/学习任务/Task1.md)
+- Task2：[中心极限定理+置信区间(1天)](基础知识/统计学/学习任务/Task2.md)
+- Task3：[假设检验(2天)](基础知识/统计学/学习任务/Task3.md)
+- Task4：[线性回归+卡方分布+方差分析(2天)](基础知识/统计学/学习任务/Task4.md)
 
 
 
@@ -74,59 +74,59 @@ Datawhale_Learning涵盖了AI领域从理论知识到动手实践的学习内容
 
 
 ### 【数据分析】
-**[课程简介](./数据科学/Data_Analysis/README.md)**
+**[课程简介](数据科学/数据分析/README.md)**
 
 **任务安排**
-- Task0：[github+jupyter(1天)](数据科学/Data_Analysis/学习任务/Task0.md)
-- Task1：[第4章numpy+作业1(2天)](数据科学/Data_Analysis/学习任务/Task1.md)
-- Task2：[第5章pandas+第6章数据载入(3天)](数据科学/Data_Analysis/学习任务/Task2.md)
-- Task3：[第7章数据清洗+第8章数据联合(3天)](数据科学/Data_Analysis/学习任务/Task3.md)
-- Task4：[第10章数据聚合+第12章高阶pandas+作业2(3天)](数据科学/Data_Analysis/学习任务/Task4.md)
-- Task5：[第9章matplotlib+作业3(2天)](数据科学/Data_Analysis/学习任务/Task5.md)
-- Task6：[第11章时间序列(2天)](数据科学/Data_Analysis/学习任务/Task6.md)
-- Task7：[大作业+总结(3天)](数据科学/Data_Analysis/学习任务/Task7.md)
+- Task0：[github+jupyter(1天)](数据科学/数据分析/学习任务/Task0.md)
+- Task1：[第4章numpy+作业1(2天)](数据科学/数据分析/学习任务/Task1.md)
+- Task2：[第5章pandas+第6章数据载入(3天)](数据科学/数据分析/学习任务/Task2.md)
+- Task3：[第7章数据清洗+第8章数据联合(3天)](数据科学/数据分析/学习任务/Task3.md)
+- Task4：[第10章数据聚合+第12章高阶pandas+作业2(3天)](数据科学/数据分析/学习任务/Task4.md)
+- Task5：[第9章matplotlib+作业3(2天)](数据科学/数据分析/学习任务/Task5.md)
+- Task6：[第11章时间序列(2天)](数据科学/数据分析/学习任务/Task6.md)
+- Task7：[大作业+总结(3天)](数据科学/数据分析/学习任务/Task7.md)
 
 ### 【MySQL】
 
-**[课程简介](./数据科学/MYSQL/README.md)**
+**[课程简介](数据科学/MySQL/README.md)**
 
 **任务安排**
-- Task1：[软件安装及数据库基础+MySQL 基础 （一）- 查询语句(3天)](数据科学/MYSQL/学习任务/Task1.md)
-- Task2：[MySQL 基础 （二）- 表操作(3天)](数据科学/MYSQL/学习任务/Task2.md)
-- Task3：[MySQL 实战(1天)](数据科学/MYSQL/学习任务/Task3.md)
-- Task4：[MySQL 实战 - 复杂项目(1天)](数据科学/MYSQL/学习任务/Task4.md)
+- Task1：[软件安装及数据库基础+MySQL 基础 （一）- 查询语句(3天)](数据科学/MySQL/学习任务/Task1.md)
+- Task2：[MySQL 基础 （二）- 表操作(3天)](数据科学/MySQL/学习任务/Task2.md)
+- Task3：[MySQL 实战(1天)](数据科学/MySQL/学习任务/Task3.md)
+- Task4：[MySQL 实战 - 复杂项目(1天)](数据科学/MySQL/学习任务/Task4.md)
 
 
 ### 【爬虫】
-**[课程简介](./数据科学/Scrapy/README.md)**
+**[课程简介](./数据科学/爬虫/README.md)**
 
 **任务安排**
-- Task1：[get与post请求+正则表达式(2天)](./数据科学/Scrapy/学习任务/Task1.md)
-- Task2：[beautifulsoup+xpath(2天)](./数据科学/Scrapy/学习任务/Task2.md)
-- Task3：[selenium+IP(2天)](./数据科学/Scrapy/学习任务/Task3.md)
-- Task4：[实战大项目(2天)](./数据科学/Scrapy/学习任务/Task4.md)
+- Task1：[get与post请求+正则表达式(2天)](./数据科学/爬虫/学习任务/Task1.md)
+- Task2：[beautifulsoup+xpath(2天)](./数据科学/爬虫/学习任务/Task2.md)
+- Task3：[selenium+IP(2天)](./数据科学/爬虫/学习任务/Task3.md)
+- Task4：[实战大项目(2天)](./数据科学/爬虫/学习任务/Task4.md)
 # 机器学习
 ## 课程列表
 ### 【初级算法梳理】
 
-**[课程简介](./机器学习/Primary-algorithm-combing/README.md)**
+**[课程简介](机器学习/初级算法梳理/README.md)**
 
 **任务安排**
-- Task1：[线性回归算法梳理(2天)](./机器学习/Primary-algorithm-combing/学习任务/Task1.md)
-- Task2：[逻辑回归算法梳理(2天)](./机器学习/Primary-algorithm-combing/学习任务/Task2.md)
-- Task3：[决策树算法梳理(2天)](./机器学习/Primary-algorithm-combing/学习任务/Task3.md)
+- Task1：[线性回归算法梳理(2天)](机器学习/初级算法梳理/学习任务/Task1.md)
+- Task2：[逻辑回归算法梳理(2天)](机器学习/初级算法梳理/学习任务/Task2.md)
+- Task3：[决策树算法梳理(2天)](机器学习/初级算法梳理/学习任务/Task3.md)
 
 
 
 ### 【高级算法梳理】 
 
-**[课程简介](./机器学习/Advanced-algorithm-combing/README.md)**
+**[课程简介](机器学习/高级算法梳理/README.md)**
 
 **任务安排**
-- Task1：[随机森林算法梳理(2天)](./机器学习/Advanced-algorithm-combing/学习任务/Task1.md)
-- Task2：[GBDT算法梳理(2天)](./机器学习/Advanced-algorithm-combing/学习任务/Task2.md)
-- Task3：[XGB算法梳理(3天)](./机器学习/Advanced-algorithm-combing/学习任务/Task3.md)
-- Task4：[LightGBM算法梳理(3天)](./机器学习/Advanced-algorithm-combing/学习任务/Task4.md)
+- Task1：[随机森林算法梳理(2天)](机器学习/高级算法梳理/学习任务/Task1.md)
+- Task2：[GBDT算法梳理(2天)](机器学习/高级算法梳理/学习任务/Task2.md)
+- Task3：[XGB算法梳理(3天)](机器学习/高级算法梳理/学习任务/Task3.md)
+- Task4：[LightGBM算法梳理(3天)](机器学习/高级算法梳理/学习任务/Task4.md)
 
 ### 【李宏毅机器学习(待完善)】：
 
@@ -175,6 +175,18 @@ Datawhale_Learning涵盖了AI领域从理论知识到动手实践的学习内容
 - Task5：[模型融合(2天)](./机器学习/数据竞赛(房租预测)/学习任务/Task5.md)
 - Task6：[比赛整理(2天)](./机器学习/数据竞赛(房租预测)/学习任务/Task6.md)
 
+### 大数据基础
+
+**[课程简介](./机器学习/大数据基础/README.md)**
+
+**任务安排**
+- Task1：[创建虚拟机+熟悉(2天)](./机器学习/大数据基础/学习任务/Task1.md)
+- Task2：[搭建Hadoop集群(3天)](./机器学习/大数据基础/学习任务/Task2.md)
+- Task3：[HDFS初步(2天)](./机器学习/大数据基础/学习任务/Task3.md)
+- Task4：[MapReduce初步(3天)](./机器学习/大数据基础/学习任务/Task4.md)
+- Task5：[Hive初步(2天)](./机器学习/大数据基础/学习任务/Task5.md)
+- Task6：[Spark初步(3天)](./机器学习/大数据基础/学习任务/Task6.md)
+- Task6：[实践(3天)](./机器学习/大数据基础/学习任务/Task6.md)
 
 
 # 深度学习
@@ -191,6 +203,32 @@ Datawhale_Learning涵盖了AI领域从理论知识到动手实践的学习内容
 - Task5：[PyTorch实现L1，L2正则化以及Dropout(2天)](深度学习/Pytorch/学习任务/Task5.md)
 - Task6：[PyTorch理解更多神经网络优化方法(2天)](深度学习/Pytorch/学习任务/Task6.md)
 - Task7：[手写数字识别(2天)](深度学习/Pytorch/学习任务/Task7.md)
+
+
+### 【Keras】
+**[课程简介](./深度学习/Keras/README.md)**
+
+
+**任务安排**
+- Task1：[快速了解keras(2天)](深度学习/Keras/学习任务/Task1.md)
+- Task2：[keras的网络层(2天)](深度学习/Keras/学习任务/Task2.md)
+- Task3：[数据预处理(2天)](深度学习/Keras/学习任务/Task3.md)
+- Task4：[keras其他功能(3天)](深度学习/Pytorch/Keras/Task4.md)
+ 
+### 【深度学习(理论)】
+**[课程简介](./深度学习/深度学习(理论)/README.md)**
+
+
+**任务安排**
+- Task1：[感知机(2天)](深度学习/深度学习(理论)/学习任务/Task1.md)
+- Task2：[神经网络(3天)](深度学习/深度学习(理论)/学习任务/Task2.md)
+- Task3：[深度神经网络DNN(3天)](深度学习/深度学习(理论)/学习任务/Task3.md)
+- Task4：[CNN(2天)](深度学习/深度学习(理论)/学习任务/Task4.md)
+- Task5：[CNN的发展上的几种常见算法、网络结构以及它们的优缺点(3天)](深度学习/深度学习(理论)/学习任务/Task5.md)
+- Task6：[CNN算法的应用（3天）](深度学习/深度学习(理论)/学习任务/Task6.md)
+- Task7：[RNN（3天）](深度学习/深度学习(理论)/学习任务/Task7.md)
+- Task8：[GRU及LSTM（3天）](深度学习/深度学习(理论)/学习任务/Task8.md)
+
 
 # 理论应用
 ## 课程列表
@@ -222,20 +260,36 @@ Datawhale_Learning涵盖了AI领域从理论知识到动手实践的学习内容
 - Task9：[Attention原理(2天)](./理论应用/自然语言处理(理论+实践)/学习任务/Task9.md)
 - Task10：[BERT(3天)](./理论应用/自然语言处理(理论+实践)/学习任务/Task10.md)
 
-### 【论文复现】
-
-**[课程简介](./基础知识/NLP论文复现/README.md)**
-    
- ### 【Spark基础】
+### 【Spark基础】
  
 **[课程简介](./机器学习/Spark基础/README.md)**
  
- **任务安排**
+**任务安排**
 
  - Task1：[运行原理，RDD设计，DAG，安装与使用(3天)](./机器学习/Spark基础/学习任务/Task1.md)
  - Task2：[RDD编程，熟悉算子，读写文件(3天)](./机器学习/Spark基础/学习任务/Task2.md)
  - Task3：[DataFrame,SparkSQL (2天)](./机器学习/Spark基础/学习任务/Task3.md)
  - Task4：[MLlib流设计，特征工程 (2天)](./机器学习/Spark基础/学习任务/Task4.md)
  - Task5：[逻辑回归，决策树(2天)](./机器学习/Spark基础/学习任务/Task5.md)
+
+### 【图像处理基础】
+
+**[课程简介](./机器学习/图像处理基础/README.md)**
+
+**任务安排**
+
+ - Task1：[初识opencv(2天)](./机器学习/图像处理基础/学习任务/Task1.md)
+ - Task2：[灰度变换和二值化(3天)](./机器学习/图像处理基础/学习任务/Task2.md)
+ - Task3：[滤波操作(4天)](./机器学习/图像处理基础/学习任务/Task3.md)
+ - Task4：[形态学处理 (4天)](./机器学习/图像处理基础/学习任务/Task4.md)
+ - Task5：[图像分割1(2天)](./机器学习/图像处理基础/学习任务/Task5.md)
+ - Task6：[图像分割2(2天)](./机器学习/图像处理基础/学习任务/Task6.md)
+ 
+ 
+### 【论文复现】
+
+**[课程简介](./基础知识/NLP论文复现/README.md)**
+    
+ 
 
 
