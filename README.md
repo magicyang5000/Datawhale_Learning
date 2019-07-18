@@ -54,7 +54,7 @@ Datawhale_Learning涵盖了AI领域从理论知识到动手实践的学习内容
 - Task3：[数组+集合+判断语句+三目表达式+循环语句(2天)](./基础知识/Python/学习任务/Task3.md)
 - Task4：[数组+集合+判断语句+三目表达式+循环语句(2天)](./基础知识/Python/学习任务/Task4.md)
 - Task5：[函数+file+os模块+ datetime模块(2天)](./基础知识/Python/学习任务/Task5.md)
-
+- Task6：[飞机大战(3天)](./基础知识/Python/学习任务/Task6.md)
 
 
 
