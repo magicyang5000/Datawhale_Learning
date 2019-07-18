@@ -213,7 +213,7 @@ Datawhale_Learning涵盖了AI领域从理论知识到动手实践的学习内容
 - Task1：[快速了解keras(2天)](深度学习/Keras/学习任务/Task1.md)
 - Task2：[keras的网络层(2天)](深度学习/Keras/学习任务/Task2.md)
 - Task3：[数据预处理(2天)](深度学习/Keras/学习任务/Task3.md)
-- Task4：[keras其他功能(3天)](深度学习/Pytorch/Keras/Task4.md)
+- Task4：[keras其他功能(3天)](深度学习/Keras/学习任务/Task4.md)
  
 ### 【深度学习(理论)】
 **[课程简介](./深度学习/深度学习(理论)/README.md)**
