@@ -91,10 +91,10 @@ Datawhale_Learning涵盖了AI领域从理论知识到动手实践的学习内容
 **[课程简介](数据科学/MySQL/README.md)**
 
 **任务安排**
-- Task1：[软件安装及数据库基础+MySQL 基础 （一）- 查询语句(3天)](数据科学/MySQL/学习任务/Task1.md)
-- Task2：[MySQL 基础 （二）- 表操作(3天)](数据科学/MySQL/学习任务/Task2.md)
-- Task3：[MySQL 实战(1天)](数据科学/MySQL/学习任务/Task3.md)
-- Task4：[MySQL 实战 - 复杂项目(1天)](数据科学/MySQL/学习任务/Task4.md)
+- Task1：[软件安装及数据库基础+MySQL 基础 （一）- 查询语句(3天)](数据科学/MySQL/学习任务v1/Task1.md)
+- Task2：[MySQL 基础 （二）- 表操作(3天)](数据科学/MySQL/学习任务v1/Task2.md)
+- Task3：[MySQL 实战(1天)](数据科学/MySQL/学习任务v1/Task3.md)
+- Task4：[MySQL 实战 - 复杂项目(1天)](数据科学/MySQL/学习任务v1/Task4.md)
 
 
 ### 【爬虫】
