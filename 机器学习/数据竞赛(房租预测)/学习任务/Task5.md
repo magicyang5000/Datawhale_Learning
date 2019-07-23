@@ -14,6 +14,6 @@
 **任选三个****模型融合的方法进行融合**** **附上代码，最终效果截图
 
 
-**任务时间 2天**
+**任务时间 3天**
 **参考链接：**[https://blog.csdn.net/qq_39756719/article/details/95969346](https://blog.csdn.net/qq_39756719/article/details/95969346)
 
