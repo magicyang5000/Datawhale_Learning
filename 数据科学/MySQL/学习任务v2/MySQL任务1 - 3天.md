@@ -1,9 +1,15 @@
 负责人：XXX
-**【任务一】****#任务时间#**
+
+**【任务一】****#任务时间（3天）#**
+
 请于**XX****月****XX****日22:00前**完成，在[打卡表格]处打卡。逾期尚未打卡的会被清退。
+
 **1.1 MySQL 软件安装及数据库基础****#学习内容#**
+
 1.软件安装及服务器设置。
+
    教程 [http://www.runoob.com/mysql/mysql-install.html](http://www.runoob.com/mysql/mysql-install.html)
+
 
 2.(选做，但是强烈建议) 使用图形界面软件 Navicat for SQL
    群里提供破解版Navicat for SQL，看群公告或聊天记录搜索888查找。

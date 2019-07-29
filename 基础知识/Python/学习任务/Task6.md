@@ -1,14 +1,22 @@
 
-# Task6**（3day）**
-
-
-# 飞机大战
-
-
-完成飞机大战游戏设计
+# Task6**（2day）**
 
 
 
-代码：python_plane.zip
 
-[参考资料](https://mp.weixin.qq.com/s/LDIFH_lasghpwmQcwkErxA)
+
+## 完成飞机大战游戏设计
+
+【作业要求】
+
+1. 自己敲一遍源代码，对自己负责
+2. 写出代码的整体框架
+3. 写出每个类及每个函数的作用
+4. 整理代码实现过程中遇到的问题
+5. 实验结果截图
+
+
+ 
+
+[代码](./python_plane.zip)
+

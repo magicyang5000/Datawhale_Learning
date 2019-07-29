@@ -54,7 +54,7 @@ Datawhale_Learning涵盖了AI领域从理论知识到动手实践的学习内容
 - Task3：[数组+集合+判断语句+三目表达式+循环语句(2天)](./基础知识/Python/学习任务/Task3.md)
 - Task4：[函数关键字+定义+参数与作用域+返回值+file+os模块(2天)](./基础知识/Python/学习任务/Task4.md)
 - Task5：[类和对象+正则表达式+re模块+ datetime模块+http请求(2天)](./基础知识/Python/学习任务/Task5.md)
-- Task6：[飞机大战(3天)](./基础知识/Python/学习任务/Task6.md)
+- Task6：[飞机大战(2天)](./基础知识/Python/学习任务/Task6.md)
 
 
 
@@ -91,10 +91,10 @@ Datawhale_Learning涵盖了AI领域从理论知识到动手实践的学习内容
 **[课程简介](数据科学/MySQL/README.md)**
 
 **任务安排**
-- Task1：[软件安装及数据库基础+MySQL 基础 （一）- 查询语句(3天)](数据科学/MySQL/学习任务v1/Task1.md)
-- Task2：[MySQL 基础 （二）- 表操作(3天)](数据科学/MySQL/学习任务v1/Task2.md)
-- Task3：[MySQL 实战(1天)](数据科学/MySQL/学习任务v1/Task3.md)
-- Task4：[MySQL 实战 - 复杂项目(1天)](数据科学/MySQL/学习任务v1/Task4.md)
+- Task1：[软件安装及数据库基础+MySQL 基础 +项目【查找重复的电子邮箱，查找大国】(3天)](数据科学/MySQL/学习任务v2/MySQL任务1%20-%203天.md)
+- Task2：[MySQL 基础 （二）- 表操作【三个项目】+表联结【四个项目】(4天)](数据科学/MySQL/学习任务v2/MySQL任务2%20-%204天.md)
+- Task3：[MySQL 实战 - 6个项目(2天)](数据科学/MySQL/学习任务v2/MySQL任务3%20-%202天.md)
+- Task4：[MySQL 实战 - 5个复杂项目(2天)](数据科学/MySQL/学习任务v2/MySQL任务4%20-%202天.md)
 
 
 ### 【爬虫】
