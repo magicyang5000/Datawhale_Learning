@@ -1,4 +1,4 @@
-# Advanced-algorithm-combing
+# 高级算法梳理
 
 **课程设计**：黑桃，刘广月，于鸿飞
 

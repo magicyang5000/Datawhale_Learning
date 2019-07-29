@@ -1,5 +1,4 @@
-# Primary-algorithm-combing
-
+# 课程简介
 
 **课程设计**：苏静、康兵兵
 

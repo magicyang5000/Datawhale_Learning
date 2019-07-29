@@ -1,7 +1,7 @@
 
 Datawhale_Learning涵盖了AI领域从理论知识到动手实践的学习内容
 
-![](./img/Datawhale组队学习路线.png)
+![](./img/Datawhale组队学习路线.png) 
 
 # 编程基础
 ## 课程列表
