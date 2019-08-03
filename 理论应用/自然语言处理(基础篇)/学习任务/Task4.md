@@ -6,7 +6,7 @@
 
 * 利用朴素贝叶斯模型进行文本分类
 
-* [朴素贝](https://blog.csdn.net/u013710265/article/details/72780520)[叶](https://blog.csdn.net/u013710265/article/details/72780520)[斯](https://blog.csdn.net/u013710265/article/details/72780520)[1](https://blog.csdn.net/u013710265/article/details/72780520)
+* [朴素贝叶斯](https://blog.csdn.net/u013710265/article/details/72780520)
 
 ### SVM模型 
 
@@ -22,7 +22,11 @@
 
 * 使用LDA生成主题特征，在之前特征的基础上加入主题特征进行文本分类
 
-* LDA数学八卦 [lda2](https://blog.csdn.net/u013710265/article/details/73480332) [合并特征](https://blog.csdn.net/u013710265/article/details/72848564)
+* LDA数学八卦 
+
+    * [lda2](https://blog.csdn.net/u013710265/article/details/73480332)
+
+    * [合并特征](https://blog.csdn.net/u013710265/article/details/72848564)
 
 
 
