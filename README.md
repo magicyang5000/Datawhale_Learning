@@ -80,14 +80,18 @@ Datawhale_Learning涵盖了AI领域从理论知识到动手实践的学习内容
 **[课程简介](doc/数据科学/数据分析/README.md)**
 
 **任务安排**
-- Task0：[github+jupyter(1天)](doc/数据科学/数据分析/学习任务/Task0.md)
-- Task1：[第4章numpy+作业1(2天)](doc/数据科学/数据分析/学习任务/Task1.md)
-- Task2：[第5章pandas+第6章数据载入(3天)](doc/数据科学/数据分析/学习任务/Task2.md)
-- Task3：[第7章数据清洗+第8章数据联合(3天)](doc/数据科学/数据分析/学习任务/Task3.md)
-- Task4：[第10章数据聚合+第12章高阶pandas+作业2(3天)](doc/数据科学/数据分析/学习任务/Task4.md)
-- Task5：[第9章matplotlib+作业3(2天)](doc/数据科学/数据分析/学习任务/Task5.md)
-- Task6：[第11章时间序列(2天)](doc/数据科学/数据分析/学习任务/Task6.md)
-- Task7：[大作业+总结(3天)](doc/数据科学/数据分析/学习任务/Task7.md)
+- Task0：[github+jupyter(1天)](doc/数据科学/数据分析/学习任务v2/Task0.md)
+- Task1：[第4章numpy+作业1(2天)](doc/数据科学/数据分析/学习任务v2/Task1.md)
+- Task2：[第5章pandas(2天)](doc/数据科学/数据分析/学习任务v2/Task2.md)
+- Task3：[第6章数据载入(2天)](doc/数据科学/数据分析/学习任务v2/Task3.md)
+- Task4：[第7章数据清洗(2天)](doc/数据科学/数据分析/学习任务v2/Task4.md)
+- Task5：[第8章数据联合(2天)](doc/数据科学/数据分析/学习任务v2/Task5.md)
+- Task6：[第10章数据聚合(2天)](doc/数据科学/数据分析/学习任务v2/Task6.md)
+- Task7：[第12章高阶pandas(2天)](doc/数据科学/数据分析/学习任务v2/Task7.md)
+- Task8：[第9章matplotlib(2天)](doc/数据科学/数据分析/学习任务v2/Task8.md)
+- Task9：[第11章时间序列大作业(2天)](doc/数据科学/数据分析/学习任务v2/Task9.md)
+- Task10：[大作业+总结(3天)](doc/数据科学/数据分析/学习任务v2/Task10.md)
+
 
 ### 【MySQL】
 
