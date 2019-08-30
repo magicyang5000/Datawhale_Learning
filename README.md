@@ -1,6 +1,6 @@
 
 Datawhale_Learning涵盖了AI领域从理论知识到动手实践的学习内容
-[![Datawhale](https://mp.weixin.qq.com/s/_sy2dgbaUFWLZlK6WA7rlg)]
+
 ![](./img/Datawhale组队学习路线.png) 
 # 组队学习计划
 Datawhale是一个开源的AI学习社区，致力于构建一个纯粹的学习圈子，帮助学习者更好的成长，组队学习
