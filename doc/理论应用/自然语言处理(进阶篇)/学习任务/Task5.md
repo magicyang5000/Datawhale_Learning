@@ -5,9 +5,10 @@
 * LSTM、GRU的结构、提出背景、优缺点。
 * 针对梯度消失（LSTM等其他门控RNN）、梯度爆炸（梯度截断）的解决方案。
 * Memory Network（自选）
-* Text-RNN的原理。
 * 利用Text-RNN模型来进行文本分类。
-* Recurrent Convolutional Neural Networks（RCNN）原理。
+* Text-RNN的原理。
 * 利用RCNN模型来进行文本分类。
+* Recurrent Convolutional Neural Networks（RCNN）原理。
+
 
 [参考答案](./../参考答案)

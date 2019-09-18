@@ -27,7 +27,7 @@ shell小练习1：
  2. [bash: wget: command not found的两种解决方法](https://www.cnblogs.com/areyouready/p/8909665.html)
  3. linux系统下载ssh服务
  4. [关闭windows的防火墙！如果不关闭防火墙的话，可能和虚拟机直接无法ping通！](https://www.linuxidc.com/Linux/2017-11/148427.htm)
- 5. 大数据软件 ：
+ 5. 大数据软件 (**很重要，否则版本不匹配会出现问题**)：
  * [链接1](https://pan.baidu.com/s/17fEq3IPVoeE29cWCrSpO8Q) 提取码：finf
  * [链接2](https://pan.baidu.com/s/103kfumDoINwLM55wVWvEsw) 提取码：aocp 
  6. [linux网络端口失效（ Device eth0 does not seem to be present,delaying initialization）解决方法](https://blog.csdn.net/lan_xi/article/details/80826049)
