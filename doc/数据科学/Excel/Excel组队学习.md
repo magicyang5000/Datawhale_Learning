@@ -48,6 +48,8 @@
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190918203130113.png)
 2.4 第二列将重复值删除，只保留唯一值，效果如下：
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190918203154717.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MTgxMDU0MA==,size_16,color_FFFFFF,t_70)任务二、基础函数（2天）
+
+任务二、基础函数（2天）
 单元格引用
 混合引用 绝对引用 相对引用
 运算符
