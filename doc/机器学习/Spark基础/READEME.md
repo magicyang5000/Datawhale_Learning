@@ -9,7 +9,7 @@
 
 **任务路线**：运行原理-环境搭建-RDD编程-SparkSQL-Spakrstreaming-MLlib-常用算法
 
-**组队学习周期**：12 Days
+**组队学习周期**：15 Days
 
 **定位人群**：能够熟练使用Python的学习者
 

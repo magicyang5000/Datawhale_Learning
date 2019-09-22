@@ -1,7 +1,7 @@
-## 组队学习内容大纲设计模板
+## 《Spark基础》组队学习内容大纲
  * 组队学习基本信息
-    * 组队学习名称：SPAKR基础
-    * 组队学习周期：12天
+    * 组队学习名称：Spark基础
+    * 组队学习周期：15天
     * 组队学习类型：理论+实践、刷视频(必填)
     * 组队学习学习者定位：python基础
     * 组队学习难度等级：(必填)
@@ -14,17 +14,8 @@
         * 理解Spark streaming
         * 熟悉DataFrame、SPARKSQL操作和Mlib的使用
     * 其他目标(选填)
-* 组队学习设计进度安排（根据自身实际情况）
-    * 组队学习设计所需时间(必填)：12天
-    * 进度安排(必填)
-      TASK 1 环境部署、了解spark运行原理、RDD和DAG  3天
-      TASK 2 RDD编程、熟悉RDD蒜子额以及读写文件  3天
-      TASK 3 DataFrame、SparkSQL以及了解Spark streaming  2天
-      TASK 4 Mlib流设计、实现特征工程 2天
-      TASK 5 实现逻辑回归和决策树  2天     
-* 组队学习考试
-    
-    * 穿插在每个任务中的项目实践
+
+
 * 参考资料
     * 课程视频链接：http://www.icourse163.org/course/XMU-1002335004
     * 课程文档链接：http://dblab.xmu.edu.cn/blog/1709-2/ 
@@ -33,8 +24,7 @@
             https://mp.weixin.qq.com/s/vufnqfG1vYjT9Ec8kvjcAg
       window: https://blog.csdn.net/SummerHmh/article/details/89518567
     * 参考资料：https://www.cnblogs.com/shishanyuan/p/4699644.html
-* 参考答案(必填)
-    见任务文档
+
 
     
 
