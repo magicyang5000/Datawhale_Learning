@@ -7,4 +7,3 @@
 
 * [word2vec1](https://blog.csdn.net/itplus/article/details/37969519) [word2vec2](http://www.hankcs.com/nlp/word2vec.html)
 
-[参考答案](./../参考答案)

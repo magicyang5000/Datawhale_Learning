@@ -10,5 +10,3 @@
 * 利用RCNN模型来进行文本分类。
 * Recurrent Convolutional Neural Networks（RCNN）原理。
 
-
-[参考答案](./../参考答案)

@@ -19,7 +19,6 @@
 
 3. 丁香园直通点：[http://www.dxy.cn/bbs/thread/626626#626626](http://www.dxy.cn/bbs/thread/626626#626626) 。
 
-4. 参考资料：[https://blog.csdn.net/naonao77/article/details/88129994](https://blog.csdn.net/naonao77/article/details/88129994)
+[参考答案](https://blog.csdn.net/naonao77/article/details/88129994)
 
 
-[参考答案](./../参考答案)1

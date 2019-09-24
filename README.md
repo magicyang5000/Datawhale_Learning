@@ -27,7 +27,7 @@ Datawhale是一个开源的AI学习社区，致力于构建一个纯粹的学习
     * 光城 、LeoLRH、 肖然
 * 组队学习基本信息
     * 组队学习名称：数据结构与算法
-    * 组队学习周期：18天
+    * 组队学习周期：33天
     * 组队学习类型：理论学习，实践
     * 组队学习学习者定位：具有一定编程语言基础
     * 组队学习难度等级：中上级
@@ -44,7 +44,7 @@ Datawhale是一个开源的AI学习社区，致力于构建一个纯粹的学习
 
 <details>
   <summary>任务安排</summary>
-  
+
 - Task1：[数组（2天）](doc/编程基础/数据结构与算法/学习任务V2/Task%201：数组（2天）.md)
 - Task2：[链表（2天）](doc/编程基础/数据结构与算法/学习任务V2/Task%202：链表（2天）.md)
 - Task3：[栈（2天）](doc/编程基础/数据结构与算法/学习任务V2/Task%203：%20栈%20%20(2天)%20.md)
@@ -88,7 +88,7 @@ Datawhale是一个开源的AI学习社区，致力于构建一个纯粹的学习
   <summary>任务安排</summary>
 
 * 选取腾讯精选练习（50 题）解答，每天1题
-* 链接： https://leetcode-cn.com/problemset/50/
+* 链接：https://leetcode-cn.com/problemset/50/
 
 </details>
 
@@ -111,10 +111,11 @@ Datawhale是一个开源的AI学习社区，致力于构建一个纯粹的学习
     * 先修组队学习：无
     * 后续推荐组队学习：初级算法梳理
 * 组队学习目标
+
     * 知道  
     * 了解  
     * 理解  
-    * 掌握  
+    * 掌握  中心极限定理、置信区间、 假设检验、二项及泊松分布、大数定律、正态分布
 * 每个任务完成大概所需时间
     * 2-3h/day
 
@@ -144,23 +145,23 @@ Datawhale是一个开源的AI学习社区，致力于构建一个纯粹的学习
     * 先修组队学习：无
     * 后续推荐组队学习：初级算法梳理
 * 组队学习目标
-    * 知道  
-    * 了解  
-    * 理解  
-    * 掌握  
+    * 知道  python的环境搭建
+    * 了解  python的数据类型的相关知识
+    * 理解  函数的概念及相关用法
+    * 掌握  python类和对象用法
 * 每个任务完成大概所需时间
     * 3-4h/day
 
 
 <details>
   <summary>任务安排</summary>
-  
+
 - Task1：[环境搭建+python初体验+python基础讲解+ python数值基本知识(2天)](doc/基础知识/Python/学习任务/Task1.md)
 - Task2：[列表+元组+string字符串+字符串格式化问题(2天)](doc/基础知识/Python/学习任务/Task2.md)
 - Task3：[数组+集合+判断语句+三目表达式+循环语句(2天)](doc/基础知识/Python/学习任务/Task3.md)
 - Task4：[函数关键字+定义+参数与作用域+返回值+file+os模块(2天)](doc/基础知识/Python/学习任务/Task4.md)
 - Task5：[类和对象+正则表达式+re模块+ datetime模块+http请求(2天)](doc/基础知识/Python/学习任务/Task5.md)
-- Task6：[飞机大战(2天)](doc/基础知识/Python/学习任务/Task6.md)
+- Task6：[飞机大战(3天)](doc/基础知识/Python/学习任务/Task6.md)
 
 </details>
 
@@ -193,11 +194,11 @@ Datawhale是一个开源的AI学习社区，致力于构建一个纯粹的学习
 <details>
   <summary>任务安排</summary>
 
-- Task1：[基础界面+文件操作+基础单元格操作(3天)](doc/数据科学/Excel/学习任务/Task1.md)
-- Task2：[单元格引用+运算符+文本函数+逻辑函数+计算函数(2天)](doc/数据科学/Excel/学习任务/Task2.md)
-- Task3：[vlookup函数用法+match&index+双条件查找(2天)](doc/数据科学/Excel/学习任务/Task3.md)
-- Task4：[图表类型+图表类型选择指南+图表的构成要素(3天)](doc/数据科学/Excel/学习任务/Task4.md)
-- Task5：[数据透视表+实现数据分段统计+变更值汇总依据+设置三种值百分比+计算字段&计算项(2天)](doc/数据科学/Excel/学习任务/Task5.md)
+- Task1：[基础界面+文件操作+基础单元格操作(3天)](doc/数据科学/Excel/学习任务V2/Task1.md)
+- Task2：[单元格引用+运算符+文本函数+逻辑函数+计算函数(2天)](doc/数据科学/Excel/学习任务V2/Task2.md)
+- Task3：[vlookup函数用法+match&index+双条件查找(2天)](doc/数据科学/Excel/学习任务V2/Task3.md)
+- Task4：[图表类型+图表类型选择指南+图表的构成要素(3天)](doc/数据科学/Excel/学习任务V2/Task4.md)
+- Task5：[数据透视表+实现数据分段统计+变更值汇总依据+设置三种值百分比+计算字段&计算项(2天)](doc/数据科学/Excel/学习任务V2/Task5.md)
 
 </details>
 
@@ -206,7 +207,7 @@ Datawhale是一个开源的AI学习社区，致力于构建一个纯粹的学习
 
 <details>
   <summary>任务安排</summary>
-  
+
 - Task0：[github+jupyter(1天)](doc/数据科学/数据分析/学习任务v2/Task0.md)
 - Task1：[第4章numpy+作业1(2天)](doc/数据科学/数据分析/学习任务v2/Task1.md)
 - Task2：[第5章pandas(2天)](doc/数据科学/数据分析/学习任务v2/Task2.md)
@@ -244,11 +245,11 @@ Datawhale是一个开源的AI学习社区，致力于构建一个纯粹的学习
     * 2-3h/day 
 <details>
   <summary>任务安排</summary>
-  
-- Task1：[软件安装及数据库基础+MySQL 基础 +项目【查找重复的电子邮箱，查找大国】(3天)](doc/数据科学/MySQL/学习任务v2/MySQL任务1%20-%203天.md)
-- Task2：[MySQL 基础 （二）- 表操作【三个项目】+表联结【四个项目】(4天)](doc/数据科学/MySQL/学习任务v2/MySQL任务2%20-%204天.md)
-- Task3：[MySQL 实战 - 6个项目(2天)](doc/数据科学/MySQL/学习任务v2/MySQL任务3%20-%202天.md)
-- Task4：[MySQL 实战 - 5个复杂项目(2天)](doc/数据科学/MySQL/学习任务v2/MySQL任务4%20-%202天.md)
+
+- Task1：[软件安装及数据库基础+MySQL 基础 +项目【查找重复的电子邮箱，查找大国】(3天)](doc/数据科学/MySQL/学习任务V2/MySQL任务1%20-%203天.md)
+- Task2：[MySQL 基础 （二）- 表操作【三个项目】+表联结【四个项目】(4天)](doc/数据科学/MySQL/学习任务V2/MySQL任务2%20-%204天.md)
+- Task3：[MySQL 实战 - 6个项目(2天)](doc/数据科学/MySQL/学习任务V2/MySQL任务3%20-%202天.md)
+- Task4：[MySQL 实战 - 5个复杂项目(2天)](doc/数据科学/MySQL/学习任务V2/MySQL任务4%20-%202天.md)
 </details>
 
 ### 爬虫
@@ -273,10 +274,10 @@ Datawhale是一个开源的AI学习社区，致力于构建一个纯粹的学习
     * 其他目标：无
 * 每个任务完成大概所需时间
     * 2-3h/day 
-        
+      
 <details>
   <summary>任务安排</summary>
-  
+
 - Task1：[get与post请求+正则表达式(2天)](doc/数据科学/爬虫/学习任务/Task1.md)
 - Task2：[beautifulsoup+xpath(2天)](doc/数据科学/爬虫/学习任务/Task2.md)
 - Task3：[selenium+IP(2天)](doc/数据科学/爬虫/学习任务/Task3.md)
@@ -312,7 +313,7 @@ Datawhale是一个开源的AI学习社区，致力于构建一个纯粹的学习
 
 <details>
   <summary>任务安排</summary>
-  
+
 - Task1：[线性回归算法梳理(2天)](doc/机器学习/初级算法梳理/学习任务/Task1.md)
 - Task2：[逻辑回归算法梳理(2天)](doc/机器学习/初级算法梳理/学习任务/Task2.md)
 - Task3：[决策树算法梳理(2天)](doc/机器学习/初级算法梳理/学习任务/Task3.md)
@@ -327,10 +328,10 @@ Datawhale是一个开源的AI学习社区，致力于构建一个纯粹的学习
     * 黑桃，刘广月，于鸿飞
 * 组队学习基本信息
     * 组队学习名称：初级算法梳理
-    * 组队学习周期：7天
+    * 组队学习周期：10天
     * 组队学习类型：理论学习
     * 组队学习学习者定位：有概率论、矩阵运算、求导、泰勒展开等基础数学知识
-    * 组队学习难度等级：简单
+    * 组队学习难度等级：高
     * 先修组队学习：无
     * 后续推荐组队学习：数据挖掘
     
@@ -339,14 +340,14 @@ Datawhale是一个开源的AI学习社区，致力于构建一个纯粹的学习
         * 知道 
         * 了解 
         * 理解 
-        * 掌握 线性回归 逻辑回归 决策树原理
+        * 掌握 随机森林 GBDT  XGB LightGBM 的算法原理
     * 其他目标：无
 * 每个任务完成大概所需时间
     * 2-3h/day 
 
 <details>
   <summary>任务安排</summary>
-  
+
 - Task1：[随机森林算法梳理(2天)](doc/机器学习/高级算法梳理/学习任务/Task1.md)
 - Task2：[GBDT算法梳理(2天)](doc/机器学习/高级算法梳理/学习任务/Task2.md)
 - Task3：[XGB算法梳理(3天)](doc/机器学习/高级算法梳理/学习任务/Task3.md)
@@ -360,7 +361,7 @@ Datawhale是一个开源的AI学习社区，致力于构建一个纯粹的学习
 
 <details>
   <summary>任务安排</summary>
-  
+
 - Task1：
 - Task2：
 - Task3：
@@ -406,30 +407,30 @@ Datawhale是一个开源的AI学习社区，致力于构建一个纯粹的学习
     * 组队学习周期：15天
     * 组队学习类型：实践
     * 组队学习学习者定位：熟练掌握Python基础，了解基本回归算法，具备一定数据分析的能力
-    * 组队学习难度等级：难度系数中高
-    * 先修组队学习：
+    * 组队学习难度等级：难度系数高
+    * 先修组队学习：Python基础
     * 后续推荐组队学习：
 * 组队学习目标设计
     * 知识目标
-        * 了解比赛的全流程
-        * 掌握数据清洗、特征工程、模型、模型融合等数据竞赛基本技能
+        * 了解 比赛的全流程
+        * 掌握 数据清洗、特征工程、模型、模型融合等数据竞赛基本技能
 * 每个任务完成大概所需时间
     * 3-4h/day       
       
 <details>
   <summary>任务安排</summary>
-  
-- Task1：[赛题分析(2天)](doc/机器学习/数据竞赛(房租预测)/学习任务/Task1.md)
-- Task2：[数据清洗(2天)](doc/机器学习/数据竞赛(房租预测)/学习任务/Task2.md)
-- Task3：[特征工程(2天)](doc/机器学习/数据竞赛(房租预测)/学习任务/Task3.md)
-- Task4：[模型选择(2天)](doc/机器学习/数据竞赛(房租预测)/学习任务/Task4.md)
-- Task5：[模型融合(2天)](doc/机器学习/数据竞赛(房租预测)/学习任务/Task5.md)
-- Task6：[比赛整理(2天)](doc/机器学习/数据竞赛(房租预测)/学习任务/Task6.md)
+
+- Task1：[赛题分析(2天)](doc/机器学习/数据竞赛(房租预测)/房租预测v2/学习任务/Task1.md)
+- Task2：[数据清洗(2天)](doc/机器学习/数据竞赛(房租预测)/房租预测v2/学习任务/Task2.md)
+- Task3：[特征工程(3天)](doc/机器学习/数据竞赛(房租预测)/房租预测v2/学习任务/Task3.md)
+- Task4：[模型选择(3天)](doc/机器学习/数据竞赛(房租预测)/房租预测v2/学习任务/Task4.md)
+- Task5：[模型融合(3天)](doc/机器学习/数据竞赛(房租预测)/房租预测v2/学习任务/Task5.md)
+- Task6：[比赛整理(2天)](doc/机器学习/数据竞赛(房租预测)/房租预测v2/学习任务/Task6.md)
 
 </details>
 
 ### 大数据基础
-  
+
 
 **[组队学习简介](doc/机器学习/大数据基础/README.md)**
 
@@ -452,7 +453,7 @@ Datawhale是一个开源的AI学习社区，致力于构建一个纯粹的学习
 
 <details>
   <summary>任务安排</summary>
-  
+
 - Task1：[创建虚拟机+熟悉(2天)](doc/机器学习/大数据基础/学习任务/Task1.md)
 - Task2：[搭建Hadoop集群(3天)](doc/机器学习/大数据基础/学习任务/Task2.md)
 - Task3：[HDFS初步(2天)](doc/机器学习/大数据基础/学习任务/Task3.md)
@@ -489,7 +490,7 @@ Datawhale是一个开源的AI学习社区，致力于构建一个纯粹的学习
 
 <details>
   <summary>任务安排</summary>
-  
+
 - Task1：[PyTorch的基本概念(2天)](doc/深度学习/Pytorch/学习任务/Task1.md)
 - Task2：[设立计算图并自动计算(2天)](doc/深度学习/Pytorch/学习任务/Task2.md)
 - Task3：[PyTorch实现Logistic regression(2天)](doc/深度学习/Pytorch/学习任务/Task3.md)
@@ -524,7 +525,7 @@ Datawhale是一个开源的AI学习社区，致力于构建一个纯粹的学习
 
 <details>
   <summary>任务安排</summary>
-  
+
 - Task1：[快速了解keras(2天)](doc/深度学习/Keras/学习任务/Task1.md)
 - Task2：[keras的网络层(2天)](doc/深度学习/Keras/学习任务/Task2.md)
 - Task3：[数据预处理(2天)](doc/深度学习/Keras/学习任务/Task3.md)
@@ -537,7 +538,7 @@ Datawhale是一个开源的AI学习社区，致力于构建一个纯粹的学习
 
 <details>
   <summary>任务安排</summary>
-  
+
 - Task1：[感知机(2天)](doc/深度学习/深度学习(理论)/学习任务/Task1.md)
 - Task2：[神经网络(3天)](doc/深度学习/深度学习(理论)/学习任务/Task2.md)
 - Task3：[深度神经网络DNN(3天)](doc/深度学习/深度学习(理论)/学习任务/Task3.md)
@@ -576,7 +577,7 @@ Datawhale是一个开源的AI学习社区，致力于构建一个纯粹的学习
 
 <details>
   <summary>任务安排</summary>
-  
+
 - Task1：[数据分析(2天)](doc/理论应用/数据挖掘/学习任务/Task1.md)
 - Task2：[特征工程(2天)](doc/理论应用/数据挖掘/学习任务/Task2.md)
 - Task3：[模型构建 (2天)](doc/理论应用/数据挖掘/学习任务/Task3.md)
@@ -614,7 +615,7 @@ Datawhale是一个开源的AI学习社区，致力于构建一个纯粹的学习
 
 <details>
   <summary>任务安排</summary>
-  
+
 * 预备任务：[tensorflow安装+tensrflow基础+NLP](doc/理论应用/自然语言处理(基础篇)/学习任务/预备任务.md)
 * Task1：[数据集探索（2天）](doc/理论应用/自然语言处理(基础篇)/学习任务/Task1.md)
 * Task2：[特征提取（2天）](doc/理论应用/自然语言处理(基础篇)/学习任务/Task2.md)
@@ -650,7 +651,7 @@ Datawhale是一个开源的AI学习社区，致力于构建一个纯粹的学习
 
 <details>
   <summary>任务安排</summary>
-  
+
 * Task1：[数据集探索（2天）](doc/理论应用/自然语言处理(进阶篇)/学习任务/Task1.md)
 * Task2：[神经网络基础（2天）](doc/理论应用/自然语言处理(进阶篇)/学习任务/Task2.md)
 * Task3：[简单神经网络+讨论（2天）](doc/理论应用/自然语言处理(进阶篇)/学习任务/Task3.md)

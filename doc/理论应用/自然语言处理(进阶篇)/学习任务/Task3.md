@@ -9,4 +9,3 @@
 * 利用FastText模型进行文本分类。
 * [fasttext1](https://github.com/facebookresearch/fastText#building-fasttext-for-python) [fasttext2](https://github.com/salestock/fastText.py) [fasttext3 其中的参考](https://jepsonwong.github.io/2018/05/02/fastText/)
 
-[参考答案](./../参考答案)

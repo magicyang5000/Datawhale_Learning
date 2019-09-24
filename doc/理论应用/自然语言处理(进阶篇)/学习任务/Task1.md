@@ -45,10 +45,9 @@ THUCNews数据子集：[https://pan.baidu.com/s/1hugrfRu](https://pan.baidu.com/
 
 
 
-打卡规则 
+## 打卡规则 
 
 学员编号+任务名称+作业链接 (例如：01+数据集探索+www.baidu.com)
 
 使用博客记录对数据的分析过程  主要是代码+适量的文字描述  
 
-[参考答案](./../参考答案)

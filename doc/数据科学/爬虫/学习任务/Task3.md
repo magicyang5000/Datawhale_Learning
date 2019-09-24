@@ -19,7 +19,6 @@
 
 3.  西刺直通点：[https://www.xicidaili.com/](https://www.xicidaili.com/) 。
 
-4. 参考资料：[https://blog.csdn.net/weixin_43720396/article/details/88218204](https://blog.csdn.net/weixin_43720396/article/details/88218204)
+[参考答案](https://blog.csdn.net/weixin_43720396/article/details/88218204)
 
 
-[参考答案](./../参考答案)
