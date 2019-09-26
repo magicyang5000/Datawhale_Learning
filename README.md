@@ -194,11 +194,11 @@ Datawhale是一个开源的AI学习社区，致力于构建一个纯粹的学习
 <details>
   <summary>任务安排</summary>
 
-- Task1：[基础界面+文件操作+基础单元格操作(3天)](doc/数据科学/Excel/学习任务V2/Task1.md)
-- Task2：[单元格引用+运算符+文本函数+逻辑函数+计算函数(2天)](doc/数据科学/Excel/学习任务V2/Task2.md)
-- Task3：[vlookup函数用法+match&index+双条件查找(2天)](doc/数据科学/Excel/学习任务V2/Task3.md)
-- Task4：[图表类型+图表类型选择指南+图表的构成要素(3天)](doc/数据科学/Excel/学习任务V2/Task4.md)
-- Task5：[数据透视表+实现数据分段统计+变更值汇总依据+设置三种值百分比+计算字段&计算项(2天)](doc/数据科学/Excel/学习任务V2/Task5.md)
+- Task1：[基础界面(2天)](doc/数据科学/Excel/学习任务V2/Task1.md)
+- Task2：[基础函数(2天)](doc/数据科学/Excel/学习任务V2/Task2.md)
+- Task3：[match index 和vlookup函数 和双条件查找匹配 （2天）](doc/数据科学/Excel/学习任务V2/Task3.md)
+- Task4：[基础图表（4天）](doc/数据科学/Excel/学习任务V2/Task4.md)
+- Task5：[数据透视表(2天)](doc/数据科学/Excel/学习任务V2/Task5.md)
 
 </details>
 
