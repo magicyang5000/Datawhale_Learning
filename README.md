@@ -271,7 +271,7 @@ Datawhale是一个开源的AI学习社区，致力于构建一个纯粹的学习
     - 理解 请求头的作用、网络请求的过程
     - 掌握 Requests、Lxml、Selenium、BeautifulSoup常用方法
 * 学习内容
-    - ~~请求 → re → beautifulsoup → lxml → selenium → IP问题 → 实战小项目~~
+
     - 请求 & 正则表达式 → beautifulsoup & lxml → selenium & IP问题 → 实战大项目
 * 基本信息
     * 定位人群：有基础的Python编程能力和一些网络常识；难度系数中
@@ -618,8 +618,7 @@ Datawhale是一个开源的AI学习社区，致力于构建一个纯粹的学习
     - 理解 Attention原理在NLP方面的应用
     - 掌握 基本深度神经网络在NLP方面的应用
 * 学习内容
-    - ~~word2vec算法跑模型→卷积神经网络算法跑模型→循环神经网络算法跑模型
-    →注意力机制算法跑模型→ Bert~~
+
     - 数据集探索 → 神经网络基础 → 简单神经网络 → 卷积神经网络 → 循环神经网络
     → Attention原理 → Bert原理
 * 基本信息
@@ -655,7 +654,7 @@ Datawhale是一个开源的AI学习社区，致力于构建一个纯粹的学习
     - 理解 Spark streaming
     - 熟悉 DataFrame、SPARKSQL操作和Mlib的使用
 * 学习内容
-    - ~~运行原理 → 环境搭建 → RDD编程 → SparkSQL → MLlib → 常用算法~~
+
     - 运行原理 & 环境搭建 → 熟悉RDD & RDD编程 → SparkSQL → MLlib → 常用算法
 * 基本信息
     * 定位人群：掌握Python基础；难度系数中
