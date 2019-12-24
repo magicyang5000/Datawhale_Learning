@@ -17,8 +17,5 @@
 
 * 分析每一个communityName、city、region、plate的数据分布并对其进行数据清洗
 
-## baseline
-
-* 任选一个模型套用，得到baseline。对比任务一使用的模型结果的得分情况。 
 
 
